@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="TopBar">
+		<!-- 文字 -->
+		<attr name="leftText" format="string" />
+		<attr name="rightText" format="string" />
+		<attr name="titleText" format="string" />
+		<!-- 文字颜色 -->
+		<attr name="leftTextColor" format="color" />
+		<attr name="rightTextColor" format="color" />
+		<attr name="titleTextColor" format="color" />
+		<!-- 文字大小 -->
+		<attr name="titleTextSize" format="dimension" />
+		<!-- 背景色 -->
+		<attr name="leftBackground" format="reference|color" />
+		<attr name="rightBackground" format="reference|color" />
+
+	</declare-styleable>
+
+</resources>

@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res/com.sloop.topbar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sloop.topbar.MainActivity" >
+
+    <com.sloop.view.TopBar
+        android:minHeight="48dp"
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:leftBackground="@drawable/blue_button"
+        app:leftText="左侧"
+        app:titleTextSize="8sp"
+        app:rightBackground="@drawable/blue_button"
+        app:rightText="右侧"
+        app:titleText="自定义标题"
+        app:titleTextColor="#ffffff" >
+    </com.sloop.view.TopBar>
+
+</RelativeLayout>
