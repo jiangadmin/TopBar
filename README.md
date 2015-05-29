@@ -7,4 +7,4 @@
 
 ## 截屏图片
 
-![pic1](https://github.com/GcsSloop/TopBar/blob/master/Art/pic_01.jpeg) ![pic2](https://github.com/GcsSloop/TopBar/blob/master/Art/pic_02.jpeg)
+![pic1](https://github.com/GcsSloop/TopBar/blob/master/Art/pic_01.png) ![pic2](https://github.com/GcsSloop/TopBar/blob/master/Art/pic_02.png)
