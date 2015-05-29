@@ -5,3 +5,6 @@
 
 ## 视频课程传送： [【Android UI模板设计】](http://www.imooc.com/learn/247) 
 
+## 截屏图片
+
+![pic1](https://github.com/GcsSloop/TopBar/blob/master/Art/pic_01.jpeg) ![pic2](https://github.com/GcsSloop/TopBar/blob/master/Art/pic_02.jpeg)
