@@ -1,13 +1,11 @@
 package com.sloop.topbar;
 
-import com.sloop.view.TopBar;
-import com.sloop.view.TopBar.TopBarClickListener;
-
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.Toast;
+
+import com.sloop.view.TopBar;
+import com.sloop.view.TopBar.TopBarClickListener;
 
 
 public class MainActivity extends Activity {

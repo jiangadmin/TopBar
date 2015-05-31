@@ -9,11 +9,6 @@
  */
 package com.sloop.view;
 
-import java.security.PublicKey;
-
-import com.sloop.topbar.R;
-import com.sloop.topbar.R.styleable;
-
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Color;
@@ -24,6 +19,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+
+import com.sloop.topbar.R;
 
 
 /**
